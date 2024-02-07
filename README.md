@@ -11,7 +11,7 @@ Bienvenue sur le projet React2 IDE Online ! 🎉 Ce projet est un environnement 
 - 
 ## Auteur
 
-Ce projet a été développé par [Arthurjvz](lien-vers-votre-profil-github).
+Ce projet a été développé par [Arthurjvz]([lien-vers-votre-profil-github](https://github.com/arthurjvz)).
 
 ---
 
