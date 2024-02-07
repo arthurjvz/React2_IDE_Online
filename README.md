@@ -5,7 +5,8 @@ Bienvenue sur le projet React2 IDE Online ! 🎉 Ce projet est un environnement 
 [React2 IDE Online](https://react2-ide-online.vercel.app/).
 
 ## Compétences acquises sur ce projet
-- 
+- Première utilisation de React Redux
+- Consolidéter les bases sur TailWind
 
 ## Fonctionnalités
 
@@ -13,7 +14,7 @@ Bienvenue sur le projet React2 IDE Online ! 🎉 Ce projet est un environnement 
 - Prise en charge de la coloration syntaxique.
 - Aperçu en direct des modifications apportées au code.
 - Facilité d'utilisation et interface utilisateur intuitive.
-- 
+  
 ## Auteur
 
 Ce projet a été développé par [Arthurjvz]([lien-vers-votre-profil-github](https://github.com/arthurjvz)).
