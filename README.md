@@ -6,7 +6,7 @@ Bienvenue sur le projet React2 IDE Online ! 🎉 Ce projet est un environnement 
 
 ## Compétences acquises sur ce projet
 - Première utilisation de React Redux
-- Consolidéter les bases sur TailWind
+- Consolider les bases sur TailWind
 
 ## Fonctionnalités
 
